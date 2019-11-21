@@ -10,6 +10,12 @@ fields:
 - type: file
   name: logo
   label: Logo
+- name: product_logo
+  type: file
+  config:
+    maxSize: 250
+  label: Product Logo
+  description: Add Product Logo
 - type: field_group_list
   name: navigation
   label: Navigation
