@@ -6,6 +6,12 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
+  - link: nav4
+    link_text: nav4
+  - link: nav3
+    link_text: nav3
+  - link: nav2
+    link_text: nav2
   - link: nav1
     link_text: nav1
   logo: "/uploads/2019/11/21/CompanyLogo.png"
