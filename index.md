@@ -72,6 +72,14 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+- template: 1-column-text
+  block: one-column-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  content: <p><img src="/uploads/2019/11/21/CKR1logo.png"></p>
+  headline: ''
 
 ---
 foo bar
