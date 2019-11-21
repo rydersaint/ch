@@ -18,7 +18,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2019/11/21/CKR1logo.png"
-  caption: All Available Blocks
+  caption: ''
 - template: detail-content
   block: text-1
   content: <p><img src="/uploads/2019/11/21/CKR1logo.png"></p>
