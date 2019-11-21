@@ -815,16 +815,16 @@ body {
 }
 
 ::-moz-selection {
-    background: #ffedbc;
-    color: #333
+    background: #000000;
+    color: rgb(255, 255, 255)
 }
 
 ::-webkit-selection {
-    background: #ffedbc;
-    color: #333
+    background: #000000;
+    color: rgb(255, 255, 255)
 }
 
 ::selection {
-    background: #ffedbc;
-    color: #333
+    background: #000000;
+    color: rgb(255, 255, 255)
 }
