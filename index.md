@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: 1-column-text
   block: one-column-1
-  content: <img src="/uploads/2019/11/21/CompanyLogo.png"><br><img src="/uploads/2019/11/21/CKR1logo.png">
+  content: <img src="/uploads/2019/11/21/CompanyLogo.png"><br><br><img src="/uploads/2019/11/21/CKR1logo.png">
   headline: ''
 - template: navigation-header
   block: header-1
