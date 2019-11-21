@@ -16,9 +16,13 @@ page_sections:
     link_text: nav4
   logo: "/uploads/2019/11/21/CompanyLogo.png"
   product_logo: "/uploads/2019/11/21/CKR1logo.png"
+- template: 1-column-text
+  block: one-column-1
+  content: <img src="/uploads/2019/11/21/CompanyLogo.png"><img src="/uploads/2019/11/21/CKR1logo.png">
+  headline: ''
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2019/11/21/CKR1logo.png"
+  image: ''
   caption: ''
 - template: hero-banner-w-image
   block: hero-2
@@ -53,12 +57,6 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
-- template: 1-column-text
-  block: one-column-1
-  headline: 16 Fully Responsive Design Blocks
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
@@ -77,6 +75,14 @@ page_sections:
   block: one-column-1
   headline: ''
   content: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 
 ---
 foo bar
