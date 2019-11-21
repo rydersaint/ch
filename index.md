@@ -7,7 +7,7 @@ page_sections:
   block: header-1
   navigation:
   - link: nav1
-    link_text: ''
+    link_text: nav1
   logo: "/uploads/2019/11/21/CompanyLogo.png"
 - template: hero-banner-w-image
   block: hero-2
