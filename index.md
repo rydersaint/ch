@@ -15,7 +15,7 @@ page_sections:
   - link: nav2
     link_text: 独自製法
   - link: nav3
-    link_text: nav3
+    link_text: 3年間の楽しみ
   - link: nav4
     link_text: nav4
   logo: "/uploads/2019/11/21/CompanyLogo.png"
