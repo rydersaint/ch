@@ -736,7 +736,8 @@ input.inverted::placeholder {
 }
 
 .block-feature-2 .column.media img {
-    max-width: 100% height: auto;
+    max-width: 100%;
+    height: auto;
 }
 
 @media screen and (min-width:700px) {
@@ -763,6 +764,7 @@ input.inverted::placeholder {
     margin-left: auto;
     margin-right: auto;
     max-width: 50%;
+    height: auto;
     background-color: #000;
 }
 
@@ -792,7 +794,8 @@ input.inverted::placeholder {
 }
 
 .block-media-2 .column img {
-    max-width: 100%
+    max-width: 100%;
+    height: auto;
 }
 
 .block-media-2 figcaption {
