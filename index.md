@@ -8,7 +8,7 @@ page_sections:
   navigation:
   - link: nav1
     link_text: ''
-  logo: ''
+  logo: "/uploads/2019/11/21/CompanyLogo.png"
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
