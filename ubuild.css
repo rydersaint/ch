@@ -365,7 +365,8 @@ input.inverted::placeholder {
 }
 
 .block-hero-2 .column.media img {
-    width: 100%
+    width: 100%;
+    height: auto;
 }
 
 @media screen and (min-width:700px) {
@@ -387,7 +388,8 @@ input.inverted::placeholder {
     }
     .block-hero-2 .column.media img {
         width: 45vw;
-        max-width: 520px
+        max-width: 520px;
+        height: auto;
     }
 }
 
@@ -580,7 +582,8 @@ input.inverted::placeholder {
 }
 
 .block-footer-2 img {
-    max-width: 100%
+    max-width: 100%;
+    height: auto;
 }
 
 @media screen and (min-width:700px) {
@@ -680,7 +683,8 @@ input.inverted::placeholder {
 }
 
 .block-feature-1 .column.media img {
-    max-width: 100%
+    max-width: 100%;
+    height: auto;
 }
 
 @media screen and (min-width:700px) {
@@ -732,7 +736,7 @@ input.inverted::placeholder {
 }
 
 .block-feature-2 .column.media img {
-    max-width: 100%
+    max-width: 100% height: auto;
 }
 
 @media screen and (min-width:700px) {
