@@ -22,8 +22,8 @@ page_sections:
   product_logo: "/uploads/2019/11/21/CKR1logo.png"
 - template: full-width-media-element
   block: media-1
-  image: ''
-  caption: ''
+  image: "/uploads/2019/11/21/heroPic.png"
+  caption: heropic
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
@@ -83,6 +83,10 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: detail-content
+  block: text-1
+  content: "<p></p>"
+  headline: ''
 
 ---
 foo bar
