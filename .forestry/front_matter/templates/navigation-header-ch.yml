@@ -6,7 +6,7 @@ fields:
   hidden: true
   label: block
   name: block
-  default: header-1
+  default: header-1-ch
 - type: field_group_list
   name: navigation
   label: Navigation
