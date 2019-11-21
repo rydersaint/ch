@@ -23,7 +23,8 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: ''
-  content: <img src="/uploads/2019/11/21/heroPic.png"><br><img src="/uploads/2019/11/21/CKR1intro.png">
+  content: <img src="/uploads/2019/11/21/heroPic.png"><br><br><br><img src="/uploads/2019/11/21/CKR1intro.png"><br><br><br><br><img
+    src="/uploads/2019/11/21/ricehr.png">
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
