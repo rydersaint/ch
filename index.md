@@ -3,6 +3,10 @@ layout: blocks
 title: Homepage
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
+- template: 1-column-text
+  block: one-column-1
+  content: <img src="/uploads/2019/11/21/CompanyLogo.png"><br><img src="/uploads/2019/11/21/CKR1logo.png">
+  headline: ''
 - template: navigation-header
   block: header-1
   navigation:
@@ -16,10 +20,6 @@ page_sections:
     link_text: nav4
   logo: "/uploads/2019/11/21/CompanyLogo.png"
   product_logo: "/uploads/2019/11/21/CKR1logo.png"
-- template: 1-column-text
-  block: one-column-1
-  content: <img src="/uploads/2019/11/21/CKR1logo.png">
-  headline: ''
 - template: full-width-media-element
   block: media-1
   image: ''
