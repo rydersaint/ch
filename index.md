@@ -11,7 +11,7 @@ page_sections:
   block: header-1
   navigation:
   - link: nav1
-    link_text: nav1
+    link_text: 神子原米
   - link: nav2
     link_text: nav2
   - link: nav3
