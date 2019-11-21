@@ -15,6 +15,14 @@ page_sections:
   - link: nav4
     link_text: nav4
   logo: "/uploads/2019/11/21/CompanyLogo.png"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2019/11/21/CKR1logo.png"
+  caption: ''
+- template: detail-content
+  block: text-1
+  content: <p><img src="/uploads/2019/11/21/CKR1logo.png"></p>
+  headline: ''
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
@@ -54,10 +62,6 @@ page_sections:
   content: "The Design Blocks can be used without Forestry but to harness the power
     of Blocks we recommend using Forestry. Once the site is imported you can immediately
     create new sites and make them fully customizable. \U0001F447"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
@@ -72,6 +76,10 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+- template: 1-column-text
+  block: one-column-1
+  headline: ''
+  content: ''
 
 ---
 foo bar
