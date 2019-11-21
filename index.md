@@ -20,10 +20,10 @@ page_sections:
     link_text: nav4
   logo: "/uploads/2019/11/21/CompanyLogo.png"
   product_logo: "/uploads/2019/11/21/CKR1logo.png"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2019/11/21/heroPic.png"
-  caption: heropic
+- template: 1-column-text
+  block: one-column-1
+  headline: ''
+  content: <img src="/uploads/2019/11/21/heroPic.png"><br><img src="/uploads/2019/11/21/CKR1intro.png">
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
@@ -71,10 +71,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
-- template: 1-column-text
-  block: one-column-1
-  headline: ''
-  content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
