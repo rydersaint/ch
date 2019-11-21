@@ -18,7 +18,7 @@ page_sections:
   product_logo: "/uploads/2019/11/21/CKR1logo.png"
 - template: 1-column-text
   block: one-column-1
-  content: <img src="/uploads/2019/11/21/CompanyLogo.png"><img src="/uploads/2019/11/21/CKR1logo.png">
+  content: <img src="/uploads/2019/11/21/CKR1logo.png">
   headline: ''
 - template: full-width-media-element
   block: media-1
