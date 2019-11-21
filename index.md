@@ -17,7 +17,7 @@ page_sections:
   - link: nav3
     link_text: 3年間の楽しみ
   - link: nav4
-    link_text: nav4
+    link_text: オンラインショップ
   logo: "/uploads/2019/11/21/CompanyLogo.png"
   product_logo: "/uploads/2019/11/21/CKR1logo.png"
 - template: 1-column-text
