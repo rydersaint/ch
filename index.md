@@ -15,14 +15,11 @@ page_sections:
   - link: nav4
     link_text: nav4
   logo: "/uploads/2019/11/21/CompanyLogo.png"
+  product_logo: "/uploads/2019/11/21/CKR1logo.png"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2019/11/21/CKR1logo.png"
   caption: ''
-- template: detail-content
-  block: text-1
-  content: <p><img src="/uploads/2019/11/21/CKR1logo.png"></p>
-  headline: ''
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
