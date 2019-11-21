@@ -13,7 +13,7 @@ page_sections:
   - link: nav1
     link_text: 神子原米
   - link: nav2
-    link_text: nav2
+    link_text: 独自製法
   - link: nav3
     link_text: nav3
   - link: nav4
